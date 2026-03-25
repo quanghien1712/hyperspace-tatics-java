@@ -23,7 +23,7 @@
 ## 📸 Demo
 ![image](https://github.com/user-attachments/assets/6ec231f3-11e5-4b5d-aefd-dbdcbd1c16f7)
 
-
+Playing Demo : https://youtu.be/uk1MjJMD3uw
 
 ---
 
